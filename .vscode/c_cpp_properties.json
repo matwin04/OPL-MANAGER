@@ -4,8 +4,8 @@
             "name": "Mac",
             "includePath": [
                 "${workspaceFolder}/**",
-                "${workspaceFolder}/lib/imgui-master",
-                "${workspaceFolder}/lib"
+                "${workspaceFolder}/raygui/src",
+                "${workspaceFolder}/raylib/src"
             ],
             "defines": [],
             "macFrameworkPath": [
